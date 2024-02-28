@@ -2,3 +2,5 @@ essa é a main
 implantando a main
 implantando a main
 implantando a main
+função auxiliar da feature01
+função auxiliar da feature01-1
